@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Bot",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "4realSurvival_SMP.aternos.me",
     "port": 49338,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
